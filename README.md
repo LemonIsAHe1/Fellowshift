@@ -146,4 +146,3 @@ Made with ❤️ for the Fellowship community
 - [Dungeon Guides](https://www.method.gg/fellowship/dungeon-guides)
 - [Gems Guide](https://www.method.gg/fellowship/gems-in-fellowship-how-they-work-how-to-get-them-all-gem-powers)
 - [Gear Upgrade Guide](https://www.method.gg/fellowship/how-to-upgrade-reforge-scrap-your-gear-in-fellowship)
-
