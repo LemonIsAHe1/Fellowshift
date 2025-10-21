@@ -131,7 +131,7 @@ function HeroRoster() {
           </div>
 
           <a 
-            href={`https://www.method.gg/fellowship/${selectedHero.name.toLowerCase()}-guide`}
+            href={`https://www.method.gg/fellowship/heroes/${selectedHero.name.toLowerCase()}`}
             target="_blank"
             rel="noopener noreferrer"
             className="guide-link"
